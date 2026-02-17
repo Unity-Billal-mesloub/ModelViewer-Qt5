@@ -8,7 +8,7 @@ A 3D Viewer that reads and displays most common 3D file formats that are support
 It supports various visualization and rendering styles including Physically Based Rendering as seen in the screenshots below.
 
 Rendering Modes
-![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer/blob/main/screenshots/Slide1.PNG)
+![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer-Qt5/blob/main/screenshots/Slide1.PNG)
 
 Advanced Rendering Modes
 ![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer/blob/main/screenshots/Slide2.PNG)
